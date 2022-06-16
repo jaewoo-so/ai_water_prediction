@@ -1,0 +1,5 @@
+baseline - fillna 이후 
+
+prohet 모델 베이스라인 점수 : 5.215322
+
+- T에서만 changepoint_prior_scale = 0.05 ->  0.01 | 5.165967
